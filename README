@@ -1,9 +1,7 @@
-
-Explicación del Código Java de la Clase Concesionario
-
 Resumen:
 
-La clase Concesionario en Java se encarga de gestionar el inventario de un concesionario de automóviles. Permite agregar, ordenar, imprimir y guardar/cargar datos de coches en archivos.
+La clase Concesionario en Java se encarga de gestionar el inventario de un concesionario de automóviles. 
+Permite agregar, ordenar, imprimir y guardar/cargar datos de coches en archivos.
 
 Estructura:
 
